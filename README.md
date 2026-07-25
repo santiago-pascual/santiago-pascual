@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Santiago 👋
 
-<!--
-**santiago-pascual/santiago-pascual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at the University of Buenos Aires.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Quantitative Finance
+- Financial Markets
+- Python
+- Data Science
+- Algorithmic Trading
+
+## Currently learning
+
+- Harvard CS50x
+- Python
+- Statistics
+- Quantitative Research
+
+## Goals
+
+Building strong foundations in computer science, mathematics, and quantitative finance.
