@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋
 
-Economics student at the University of Buenos Aires.
+Physics student at the University of Buenos Aires.
 
 Interested in:
 
@@ -14,7 +14,6 @@ Interested in:
 
 ## Currently learning
 
-- Harvard CS50x
 - Python
 - Statistics
 
