@@ -19,7 +19,7 @@ An independent quantitative research and paper-trading platform for Micro E-mini
 
 The research and execution repository is private. Public research documentation is in preparation.
 
-### [The Machine — Quantitative Equity Research](https://github.com/santiago-pascual/The-Machine-Project)
+### [ARCHE — Quantitative Equity Research](https://github.com/santiago-pascual/The-Machine-Project)
 
 A quantitative equity research framework combining statistical feature engineering, machine learning, market regime detection and portfolio optimization.
 
