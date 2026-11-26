@@ -48,7 +48,7 @@ The project was originally developed using AI-generated code, with my contributi
 
 ARCHÉ is preserved as an exploratory research prototype and a record of my transition toward more rigorous quantitative research, rather than a validated investment system.
 
-### [Quant Alpha Agro — NASA Space Apps Challenge 2026](https://github.com/santiago-pascual/quant-alpha-agro)
+### [ALPHA AGRO — NASA Space Apps Challenge 2026](https://github.com/santiago-pascual/quant-alpha-agro)
 
 *Scientific computing · Earth system research*
 
